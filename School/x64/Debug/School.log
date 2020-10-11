@@ -1,0 +1,49 @@
+﻿  CampingTrip.cpp
+c:\users\eron\desktop\school-level3\school\trip.h(11): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\eron\desktop\school-level3\school\trip.h(13): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\eron\desktop\school-level3\school\trip.h(16): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\eron\desktop\school-level3\school\campingtrip.h(12): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\eron\desktop\school-level3\school\campingtrip.h(14): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\eron\desktop\school-level3\school\campingtrip.h(16): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\eron\desktop\school-level3\school\campingtrip.cpp(3): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\eron\desktop\school-level3\school\campingtrip.cpp(10): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\eron\desktop\school-level3\school\campingtrip.cpp(23): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  Class.cpp
+  ClassCampingTrip.cpp
+c:\users\eron\desktop\school-level3\school\trip.h(11): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\eron\desktop\school-level3\school\trip.h(13): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\eron\desktop\school-level3\school\trip.h(16): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\eron\desktop\school-level3\school\classtrip.h(13): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\eron\desktop\school-level3\school\classtrip.h(15): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\eron\desktop\school-level3\school\campingtrip.h(12): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\eron\desktop\school-level3\school\campingtrip.h(14): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\eron\desktop\school-level3\school\campingtrip.h(16): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\eron\desktop\school-level3\school\classcampingtrip.h(13): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\eron\desktop\school-level3\school\classcampingtrip.h(15): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\eron\desktop\school-level3\school\classcampingtrip.cpp(4): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\eron\desktop\school-level3\school\classcampingtrip.cpp(11): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  ClassTrip.cpp
+c:\users\eron\desktop\school-level3\school\trip.h(11): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\eron\desktop\school-level3\school\trip.h(13): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\eron\desktop\school-level3\school\trip.h(16): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\eron\desktop\school-level3\school\classtrip.h(13): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\eron\desktop\school-level3\school\classtrip.h(15): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\eron\desktop\school-level3\school\classtrip.cpp(9): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\eron\desktop\school-level3\school\classtrip.cpp(17): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  Employee.cpp
+  Grade.cpp
+  Manager.cpp
+  Person.cpp
+  School.cpp
+  Source.cpp
+  Student.cpp
+  Teacher.cpp
+  Trip.cpp
+c:\users\eron\desktop\school-level3\school\trip.h(11): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\eron\desktop\school-level3\school\trip.h(13): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\eron\desktop\school-level3\school\trip.h(16): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\eron\desktop\school-level3\school\trip.cpp(3): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\eron\desktop\school-level3\school\trip.cpp(9): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\eron\desktop\school-level3\school\trip.cpp(22): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  Generating Code...
+  School.vcxproj -> C:\Users\Eron\Desktop\school-level3\x64\Debug\School.exe
